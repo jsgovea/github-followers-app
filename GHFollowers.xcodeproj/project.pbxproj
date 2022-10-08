@@ -7,23 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE1B487A289353F200A083B9 /* FollowerListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1B4879289353F200A083B9 /* FollowerListViewController.swift */; };
+		FE1B487C2893745F00A083B9 /* GFTitleLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1B487B2893745F00A083B9 /* GFTitleLabel.swift */; };
+		FEB6B2BE2890E7BE006590D9 /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB6B2BD2890E7BE006590D9 /* GFButton.swift */; };
+		FEB6B2C02890F524006590D9 /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB6B2BF2890F524006590D9 /* GFTextField.swift */; };
+		FEC0EDE528A9BF3000864875 /* GFBodyLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC0EDE428A9BF3000864875 /* GFBodyLabel.swift */; };
+		FEC0EDE728A9C62300864875 /* GFAlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC0EDE628A9C62300864875 /* GFAlertViewController.swift */; };
 		FEE956AA288FC7F800F30690 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE956A9288FC7F800F30690 /* AppDelegate.swift */; };
 		FEE956AC288FC7F800F30690 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE956AB288FC7F800F30690 /* SceneDelegate.swift */; };
 		FEE956AE288FC7F800F30690 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE956AD288FC7F800F30690 /* ViewController.swift */; };
-		FEE956B1288FC7F800F30690 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEE956AF288FC7F800F30690 /* Main.storyboard */; };
 		FEE956B3288FC7F900F30690 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEE956B2288FC7F900F30690 /* Assets.xcassets */; };
 		FEE956B6288FC7F900F30690 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEE956B4288FC7F900F30690 /* LaunchScreen.storyboard */; };
+		FEE956BE288FD19100F30690 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE956BD288FD19100F30690 /* SearchViewController.swift */; };
+		FEE956C0288FD1BF00F30690 /* FavoritesListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE956BF288FD1BF00F30690 /* FavoritesListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FE1B4879289353F200A083B9 /* FollowerListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListViewController.swift; sourceTree = "<group>"; };
+		FE1B487B2893745F00A083B9 /* GFTitleLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTitleLabel.swift; sourceTree = "<group>"; };
+		FEB6B2BD2890E7BE006590D9 /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
+		FEB6B2BF2890F524006590D9 /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
+		FEC0EDE428A9BF3000864875 /* GFBodyLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFBodyLabel.swift; sourceTree = "<group>"; };
+		FEC0EDE628A9C62300864875 /* GFAlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAlertViewController.swift; sourceTree = "<group>"; };
 		FEE956A6288FC7F800F30690 /* GHFollowers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GHFollowers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEE956A9288FC7F800F30690 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FEE956AB288FC7F800F30690 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		FEE956AD288FC7F800F30690 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FEE956B0288FC7F800F30690 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FEE956B2288FC7F900F30690 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEE956B5288FC7F900F30690 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FEE956B7288FC7F900F30690 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FEE956BD288FD19100F30690 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		FEE956BF288FD1BF00F30690 /* FavoritesListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +73,17 @@
 				FEE956A9288FC7F800F30690 /* AppDelegate.swift */,
 				FEE956AB288FC7F800F30690 /* SceneDelegate.swift */,
 				FEE956AD288FC7F800F30690 /* ViewController.swift */,
-				FEE956AF288FC7F800F30690 /* Main.storyboard */,
 				FEE956B2288FC7F900F30690 /* Assets.xcassets */,
 				FEE956B4288FC7F900F30690 /* LaunchScreen.storyboard */,
 				FEE956B7288FC7F900F30690 /* Info.plist */,
+				FEE956BD288FD19100F30690 /* SearchViewController.swift */,
+				FEE956BF288FD1BF00F30690 /* FavoritesListViewController.swift */,
+				FEB6B2BD2890E7BE006590D9 /* GFButton.swift */,
+				FEB6B2BF2890F524006590D9 /* GFTextField.swift */,
+				FE1B4879289353F200A083B9 /* FollowerListViewController.swift */,
+				FE1B487B2893745F00A083B9 /* GFTitleLabel.swift */,
+				FEC0EDE428A9BF3000864875 /* GFBodyLabel.swift */,
+				FEC0EDE628A9C62300864875 /* GFAlertViewController.swift */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -127,7 +148,6 @@
 			files = (
 				FEE956B6288FC7F900F30690 /* LaunchScreen.storyboard in Resources */,
 				FEE956B3288FC7F900F30690 /* Assets.xcassets in Resources */,
-				FEE956B1288FC7F800F30690 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +158,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE1B487A289353F200A083B9 /* FollowerListViewController.swift in Sources */,
+				FEE956C0288FD1BF00F30690 /* FavoritesListViewController.swift in Sources */,
 				FEE956AE288FC7F800F30690 /* ViewController.swift in Sources */,
+				FEB6B2BE2890E7BE006590D9 /* GFButton.swift in Sources */,
 				FEE956AA288FC7F800F30690 /* AppDelegate.swift in Sources */,
+				FEC0EDE728A9C62300864875 /* GFAlertViewController.swift in Sources */,
+				FEE956BE288FD19100F30690 /* SearchViewController.swift in Sources */,
+				FE1B487C2893745F00A083B9 /* GFTitleLabel.swift in Sources */,
 				FEE956AC288FC7F800F30690 /* SceneDelegate.swift in Sources */,
+				FEB6B2C02890F524006590D9 /* GFTextField.swift in Sources */,
+				FEC0EDE528A9BF3000864875 /* GFBodyLabel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FEE956AF288FC7F800F30690 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				FEE956B0288FC7F800F30690 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		FEE956B4288FC7F900F30690 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -292,7 +312,7 @@
 				INFOPLIST_FILE = GHFollowers/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -304,7 +324,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -320,7 +340,7 @@
 				INFOPLIST_FILE = GHFollowers/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -332,7 +352,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
