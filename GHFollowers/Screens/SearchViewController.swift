@@ -48,7 +48,6 @@ class SearchViewController: UIViewController, UITextFieldDelegate {
         followersListViewController.username = usernameTextField.text
         followersListViewController.title = usernameTextField.text
         navigationController?.pushViewController(followersListViewController, animated: true)
-        
     }
     
     func configureLogoImageView() {
